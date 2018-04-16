@@ -1,0 +1,32 @@
+C:\Users\User\AppData\Local\Temporary Projects\WVSU Acounting Anti-Burglary System\bin\Debug\WVSU Acounting Anti-Burglary System.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\WVSU Acounting Anti-Burglary System\WVSU Acounting Anti-Burglary System\bin\Debug\WVSU Acounting Anti-Burglary System.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\WVSU Acounting Anti-Burglary System\WVSU Acounting Anti-Burglary System\bin\Debug\WVSU Acounting Anti-Burglary System.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\WVSU Acounting Anti-Burglary System\WVSU Acounting Anti-Burglary System\bin\Debug\WVSU Acounting Anti-Burglary System.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\WVSU Acounting Anti-Burglary System\WVSU Acounting Anti-Burglary System\bin\Debug\WVSU Acounting Anti-Burglary System.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\WVSU Acounting Anti-Burglary System\WVSU Acounting Anti-Burglary System\obj\Debug\WVSU_Acounting_Anti_Burglary_System.Form1.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\WVSU Acounting Anti-Burglary System\WVSU Acounting Anti-Burglary System\obj\Debug\WVSU_Acounting_Anti_Burglary_System.Resources.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\WVSU Acounting Anti-Burglary System\WVSU Acounting Anti-Burglary System\obj\Debug\WVSU Acounting Anti-Burglary System.vbproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\WVSU Acounting Anti-Burglary System\WVSU Acounting Anti-Burglary System\obj\Debug\WVSU Acounting Anti-Burglary System.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\WVSU Acounting Anti-Burglary System\WVSU Acounting Anti-Burglary System\obj\Debug\WVSU Acounting Anti-Burglary System.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\WVSU Acounting Anti-Burglary System\WVSU Acounting Anti-Burglary System\obj\Debug\WVSU Acounting Anti-Burglary System.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\WVSU Acounting Anti-Burglary System\WVSU Acounting Anti-Burglary System\obj\Debug\WVSU Acounting Anti-Burglary System.vbprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\WVSU Acounting Anti-Burglary System\WVSU Acounting Anti-Burglary System\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\WVSU Acounting Anti-Burglary System\WVSU Acounting Anti-Burglary System\obj\Debug\WVSU_Acounting_Anti_Burglary_System.sample.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\WVSU Acounting Anti-Burglary System\WVSU Acounting Anti-Burglary System\obj\Debug\WVSU_Acounting_Anti_Burglary_System.Form2.resources
+C:\Users\User\Documents\Albastro and Mesina - BSCS 3A\WVSU Acounting Anti-Burglary System\WVSU Acounting Anti-Burglary System\bin\Debug\WVSU Acounting Anti-Burglary System.exe.config
+C:\Users\User\Documents\Albastro and Mesina - BSCS 3A\WVSU Acounting Anti-Burglary System\WVSU Acounting Anti-Burglary System\obj\Debug\WVSU Acounting Anti-Burglary System.exe
+C:\Users\User\Documents\Albastro and Mesina - BSCS 3A\WVSU Acounting Anti-Burglary System\WVSU Acounting Anti-Burglary System\obj\Debug\WVSU Acounting Anti-Burglary System.xml
+C:\Users\User\Documents\Albastro and Mesina - BSCS 3A\WVSU Acounting Anti-Burglary System\WVSU Acounting Anti-Burglary System\obj\Debug\WVSU Acounting Anti-Burglary System.pdb
+C:\Users\User\Documents\Albastro and Mesina - BSCS 3A\WVSU Acounting Anti-Burglary System\WVSU Acounting Anti-Burglary System\bin\Debug\WVSU Acounting Anti-Burglary System.exe
+C:\Users\User\Documents\Albastro and Mesina - BSCS 3A\WVSU Acounting Anti-Burglary System\WVSU Acounting Anti-Burglary System\bin\Debug\WVSU Acounting Anti-Burglary System.pdb
+C:\Users\User\Documents\Albastro and Mesina - BSCS 3A\WVSU Acounting Anti-Burglary System\WVSU Acounting Anti-Burglary System\bin\Debug\WVSU Acounting Anti-Burglary System.xml
+C:\Users\User\Documents\Albastro and Mesina - BSCS 3A\WVSU Acounting Anti-Burglary System\WVSU Acounting Anti-Burglary System\obj\Debug\WVSU Acounting Anti-Burglary System.vbprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Albastro and Mesina - BSCS 3A\WVSU Acounting Anti-Burglary System\WVSU Acounting Anti-Burglary System\obj\Debug\WVSU_Acounting_Anti_Burglary_System.Form1.resources
+C:\Users\User\Documents\Albastro and Mesina - BSCS 3A\WVSU Acounting Anti-Burglary System\WVSU Acounting Anti-Burglary System\obj\Debug\WVSU_Acounting_Anti_Burglary_System.Form2.resources
+C:\Users\User\Documents\Albastro and Mesina - BSCS 3A\WVSU Acounting Anti-Burglary System\WVSU Acounting Anti-Burglary System\obj\Debug\WVSU_Acounting_Anti_Burglary_System.Resources.resources
+C:\Users\User\Documents\Albastro and Mesina - BSCS 3A\WVSU Acounting Anti-Burglary System\WVSU Acounting Anti-Burglary System\obj\Debug\WVSU_Acounting_Anti_Burglary_System.sample.resources
+C:\Users\User\Documents\Albastro and Mesina - BSCS 3A\WVSU Acounting Anti-Burglary System\WVSU Acounting Anti-Burglary System\obj\Debug\WVSU Acounting Anti-Burglary System.vbproj.GenerateResource.Cache
+E:\tata\Albastro & Mesina - BSCS 3A\Albastro and Mesina - BSCS 3A\WVSU Acounting Anti-Burglary System\WVSU Acounting Anti-Burglary System\bin\Debug\WVSU Acounting Anti-Burglary System.exe.config
+E:\tata\Albastro & Mesina - BSCS 3A\Albastro and Mesina - BSCS 3A\WVSU Acounting Anti-Burglary System\WVSU Acounting Anti-Burglary System\obj\Debug\WVSU Acounting Anti-Burglary System.exe
+E:\tata\Albastro & Mesina - BSCS 3A\Albastro and Mesina - BSCS 3A\WVSU Acounting Anti-Burglary System\WVSU Acounting Anti-Burglary System\obj\Debug\WVSU Acounting Anti-Burglary System.xml
+E:\tata\Albastro & Mesina - BSCS 3A\Albastro and Mesina - BSCS 3A\WVSU Acounting Anti-Burglary System\WVSU Acounting Anti-Burglary System\obj\Debug\WVSU Acounting Anti-Burglary System.pdb
